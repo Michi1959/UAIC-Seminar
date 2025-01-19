@@ -1,7 +1,4 @@
-Thesis Code Repository
-
-
-This repository contains the Python scripts used in the thesis project titled: TRANSFER LEARNING FOR URBAN AERIAL
+This repository contains the Python scripts used in the seminar paper titled: TRANSFER LEARNING FOR URBAN AERIAL
 IMAGE CLASSIFICATION. The project focuses on building and evaluating machine learning models, including custom architectures and pre-trained ResNet50 models.
 
 Repository Structure
