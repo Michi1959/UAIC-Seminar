@@ -5,6 +5,9 @@ Repository Structure
 The following files  are included in this repository:
 
 CustomResNet.py: Script for creating a model from scratch.
+
 scratch_training.py: Script for training the scratch model.
+
 ResNet50Classifier.py: Script for training ResNet50 models.
+
 ResNet50Tester.py: Script for testing all trained models.
